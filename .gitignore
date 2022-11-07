@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+public/
+.deploy*/
+_config.yml
+node_modules/
